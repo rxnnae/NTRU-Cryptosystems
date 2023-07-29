@@ -19,3 +19,6 @@ git clone https://github.com/rxnnae/NTRU-Cryptosystems.git
   * numpy module
 
 * Run the ipynb file: NTRUmain.ipynb
+
+# Acknowledgments
+Special thanks to the NTRU team and the contributors of the NTRU algorithm for providing a powerful and secure encryption system.
