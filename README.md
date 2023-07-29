@@ -8,4 +8,14 @@ The goal of this project is to provide a simple, easy-to-understand, and efficie
 * Encryption: Encrypt messages using the recipient's public key.
 * Decryption: Decrypt encrypted messages using the recipient's private key.
 
+## How to Use
+* Clone the repository to your local machine:
+```python
+git clone https://github.com/rxnnae/NTRU-Cryptosystems.git
+```
+* Install the required dependencies:
+  * operator module
+  * fractions module
+  * numpy module
 
+* Run the ipynb file: NTRUmain.ipynb
